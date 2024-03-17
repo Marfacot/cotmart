@@ -1,0 +1,1 @@
+let removed = fruits.shift();
