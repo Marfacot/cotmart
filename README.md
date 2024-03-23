@@ -1,2 +1,1 @@
-# cotmart
-mat
+int left = 0;
